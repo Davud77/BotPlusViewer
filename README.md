@@ -2,10 +2,6 @@
 
 This plugin allows the visualization of equirectangular local images, it can be used for any 360 image, given that the library [Marzipano](https://github.com/google/marzipano) is used.
  
-Click on the image to see the demo video.
-
-[![Watch the video (Spanish)](https://i.imgur.com/tyu46N9l.png)](https://youtu.be/iJhh0IWijL0 "EquirectangularViewer")
- 
 ## Prerequisites
  
 The library Pillow is required,  install the **Pillow** python package.
@@ -17,10 +13,6 @@ Or using:
 
 `python3 -m pip install -r requirements.txt`
 
-
-Once installed, you can test the correct functioning of the plugin with the example that is provided,a shapefile with some images.
- [Test Project](https://github.com/All4Gis/EquirectangularViewer/tree/master/Project_example)
- 
  
 ## How it works?
  
